@@ -46,7 +46,7 @@
             <img src="https://github.com/Kellerberg/Kellerberg/blob/main/images/python.svg" width="50" height="50">
           </a>
         </td>
-        <td><b>Python:</b> High-level, general-purpose programming language known for its simplicity, readability, and vast library support.</td>
+        <td><b>Python:</b> A high-level, general-purpose programming language known for its simplicity, readability, and vast library support, used in a wide variety of applications.</td>
       </tr>
       <tr>
         <td>
@@ -54,7 +54,7 @@
             <img src="https://github.com/Kellerberg/Kellerberg/blob/main/images/pytest.svg" width="50" height="50">
           </a>
         </td>
-        <td><b>Pytest:</b> Testing framework for Python that makes it easy to write and run comprehensive test suites.</td>
+        <td><b>Pytest:</b> A comprehensive testing framework for Python that makes it easy to write and run tests, including functional, integration, and unit tests.</td>
       </tr>
       <tr>
         <td>
@@ -62,7 +62,7 @@
             <img src="https://github.com/Kellerberg/Kellerberg/blob/main/images/selenium.svg" width="50" height="50">
           </a>
         </td>
-        <td><b>Selenium:</b> Automation tool, used for web application testing, web scraping, and automation of repetitive web tasks.</td>
+        <td><b>Selenium:</b> A powerful automation tool used for web application testing, web scraping, and automating repetitive web tasks, with support for multiple programming languages.</td>
       </tr>
           <tr>
         <td>
@@ -70,7 +70,7 @@
             <img src="https://github.com/Kellerberg/Kellerberg/blob/main/images/git.svg" width="50" height="50">
           </a>
         </td>
-        <td><b>Git:</b> Version control system used for tracking changes in source code and coordinating team work.</td>
+        <td><b>Git:</b> A version control system used for tracking changes in source code, allowing teams to work collaboratively on software development projects.</td>
       </tr>    
       <tr>
         <td>
@@ -78,7 +78,7 @@
             <img src="https://github.com/Kellerberg/Kellerberg/blob/main/images/jenkins.svg" width="50" height="50">
           </a>  
         </td>
-        <td><b>Jenkins:</b> Open-source automation server used for continuous integration and delivery of software projects.</td>
+        <td><b>Jenkins:</b> An open-source automation server used for continuous integration and delivery of software projects, with extensive plugin support.</td>
       </tr>
       <tr>
         <td>
@@ -86,7 +86,7 @@
             <img src="https://github.com/Kellerberg/Kellerberg/blob/main/images/selenoid.svg" width="50" height="50">
           </a>
         </td>
-        <td><b>Selenoid:</b> Open source implementation of Selenium Hub using Docker containers to launch browsers.</td>
+        <td><b>Selenoid:</b> An open-source implementation of Selenium Hub using Docker containers to launch browsers, providing fast and efficient test execution.</td>
       </tr>
       <tr>
         <td>
@@ -94,7 +94,7 @@
             <img src="https://github.com/Kellerberg/Kellerberg/blob/main/images/allurereport.svg" width="50" height="50">
           </a>
         </td>
-        <td><b>Allure Report:</b> Flexible tool for creating clear and concise test reports for automation test results.</td>
+        <td><b>Allure Report:</b> A flexible tool for creating clear and concise test reports for automation test results, with support for various testing frameworks.</td>
       </tr>
       <tr>
         <td>
@@ -102,7 +102,7 @@
             <img src="https://github.com/Kellerberg/Kellerberg/blob/main/images/alluretestops.svg" width="50" height="50">
           </a>
         </td>
-        <td><b>Allure TestOps:</b> Test management and analytics platform providing end-to-end test management and reporting capabilities.</td>
+        <td><b>Allure TestOps:</b> A comprehensive test management and analytics platform providing end-to-end test management and reporting capabilities, including integration with various testing frameworks.</td>
       </tr>
       <tr>
         <td>
@@ -110,7 +110,7 @@
            <img src="https://github.com/Kellerberg/Kellerberg/blob/main/images/jira.svg" width="50" height="50">
           </a>
         </td>
-        <td><b>Jira:</b> Project management, issue tracking, and bug fixing tool  helping teams to plan, track and release software.</td>
+        <td><b>Jira:</b> A popular project management, issue tracking, and bug fixing tool that helps teams to plan, track, and release software, with customizable workflows and extensive integration options.</td>
       </tr>
   </table>
 </details>
