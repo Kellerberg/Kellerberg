@@ -116,6 +116,33 @@
 </details>
 
 
+
+
+<table align="center" width="100%">
+  <tr>
+    <td rowspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Kellerberg" alt="my Github Stats"/>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Kellerberg/autotesting_europeana">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kellerberg&repo=autotesting_europeana" alt="Autotesting of Europeana web encyclopedia">
+      </a>
+    </td>
+
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/Kellerberg/autotesting_europeana">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kellerberg&repo=autotesting_europeana" alt="Autotesting of Europeana web encyclopedia">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
 <!--
 **Kellerberg/Kellerberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
