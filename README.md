@@ -1,6 +1,14 @@
 <h1 align="center">Hi there, I'm Roman</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, qa automation engineer</h3>
+👾 I'm a testing automation specialist with a focus on Python. But beyond my technical expertise, I'm truly passionate about video game development in all its facets, ranging from music and arts to programming and testing. I'm also an aspiring writer and game designer.<p>
+  
+🤖 Additionally, I have a deep interest in AI technologies, particularly language models and image generators, and I enjoy exploring these fields through non-scientific experiments.<p>
+  
+🎓 I'm nearing completion of the Automation Testing on Python training courses at QA.GURU computer science school, equipping me with the necessary skills for QA automation.<p>
+  
+🔎 I am currently actively seeking opportunities as an entry-level QA automation specialist. I'm eager to contribute my growing technical skills and passion for the industry to a dynamic team and be part of exciting projects, particularly in the realm of game development.<p>
+  
+🤝 I'm actively seeking opportunities for collaboration and involvement in interesting projects, particularly within the game development sphere. If you have any exciting projects or collaboration offers, I'd be thrilled to hear from you!
 
 <table align="center">
   <tr style="vertical-align: middle;">
