@@ -8,7 +8,7 @@
   
 🔎 I am currently actively seeking opportunities as an entry-level QA automation specialist. I'm eager to contribute my growing technical skills and passion for the industry to a dynamic team and be part of exciting projects, particularly in the realm of game development.<p>
   
-🤝 I'm actively seeking opportunities for collaboration and involvement in interesting projects, particularly within the game development sphere. If you have any exciting projects or collaboration offers, I'd be thrilled to hear from you!
+🤝 I'm opened for collaboration and involvement in interesting projects, particularly within the game development sphere. If you have any exciting projects or collaboration offers, I'd be thrilled to hear from you!
 
 <table align="center">
   <tr style="vertical-align: middle;">
